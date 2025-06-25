@@ -1,8 +1,8 @@
-import React, { useCallback, useState } from "react";
-import { motion } from "framer-motion";
-import Input from "@/components/atoms/Input";
-import AppIcon from "@/components/atoms/AppIcon";
-import { debounce } from "lodash";
+import React, { useCallback, useState } from 'react'
+import { motion } from 'framer-motion'
+import Input from '@/components/atoms/Input'
+import AppIcon from '@/components/AppIcon'
+import { debounce } from 'lodash'
 
 const SearchBar = ({ onSearch, placeholder = "Search tasks...", className = '' }) => {
   const [searchTerm, setSearchTerm] = useState('');
