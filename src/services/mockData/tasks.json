@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "title": "Complete project proposal",
+    "description": "Finalize the Q4 project proposal document and submit to stakeholders for review",
+    "dueDate": "2024-12-20T15:00:00.000Z",
+    "priority": "high",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-12-15T08:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Review team performance",
+    "description": "Conduct quarterly performance reviews with team members",
+    "dueDate": "2024-12-22T10:00:00.000Z",
+    "priority": "medium",
+    "category": "Work",
+    "completed": false,
+    "createdAt": "2024-12-14T09:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Grocery shopping",
+    "description": "Buy ingredients for weekend dinner party",
+    "dueDate": "2024-12-18T18:00:00.000Z",
+    "priority": "low",
+    "category": "Personal",
+    "completed": true,
+    "createdAt": "2024-12-16T07:00:00.000Z",
+    "completedAt": "2024-12-17T16:30:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Update portfolio website",
+    "description": "Add new projects and refresh the design with modern components",
+    "dueDate": "2024-12-25T12:00:00.000Z",
+    "priority": "medium",
+    "category": "Projects",
+    "completed": false,
+    "createdAt": "2024-12-13T14:15:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Call insurance company",
+    "description": "Discuss policy changes and renewal options",
+    "dueDate": "2024-12-19T14:00:00.000Z",
+    "priority": "high",
+    "category": "Personal",
+    "completed": false,
+    "createdAt": "2024-12-15T11:20:00.000Z",
+    "completedAt": null
+  }
+]
